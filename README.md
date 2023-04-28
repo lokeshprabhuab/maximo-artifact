@@ -1,2 +1,2 @@
-# mas8_customization
-Customization for Maximo Manage
+# Maximo Artifacts
+Automation Script from Maximo Dev
